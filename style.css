@@ -1,0 +1,59 @@
+
+body
+{
+    background-color: #bdc3c7 !important;
+    padding:0 5em;
+}
+.card img{
+    width: 200px;
+    height: 400px;
+    margin:1em !important; 
+    border: none !important;
+}
+.card{
+    margin:3em 10em;
+}
+h1
+{
+    color: #551670;
+}
+h2,h3,h4,h5,h6{
+color:#355C7D;
+}
+input{
+    border: 3px solid gray; 
+    background-color: gray; 
+    margin: 0.5em !important;
+  
+}
+dt{
+    color:#355C7D;
+}
+input::placeholder
+{
+    color:white;
+}
+p{
+    font-size:25px;
+    text-align: justify;
+}
+li{
+    color:#ADD8E6;
+    list-style-type: none !important;
+}
+#last
+{
+    border: 5px solid white;
+}
+img
+{
+    margin: 0.5em 5em;
+    border: 2px dotted black !important;
+}
+h1:hover{
+    color: blue;
+}
+a:visited
+{
+    color:green;
+}
